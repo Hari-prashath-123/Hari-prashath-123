@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hariprashath%20B&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GenAI%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hariprashath%20B&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GenAI%20and%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=64748B&center=true&vCenter=true&width=650&lines=Building+scalable+AI+systems+and+autonomous+agents;Final-Year+B.Tech+%E2%80%94+AI+%26+Data+Science%2C+Class+of+2027;President%2C+AGEN+Club+%E2%80%94+Agentic+%26+Generative+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=64748B&center=true&vCenter=true&width=650&lines=Building+scalable+AI+systems+and+autonomous+agents;Final-Year+B.Tech+%E2%80%94+AI+and+Data+Science%2C+Class+of+2027;President%2C+AGEN+Club+%E2%80%94+Agentic+and+Generative+AI" alt="Typing SVG" />
 
 </div>
 
