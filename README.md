@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-hari--prashath.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://hari-prashath.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-hariprashath--b-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprashath-b-1508062a3)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-hariprashath--b-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprashath-b-3029s)
 [![Email](https://img.shields.io/badge/EMAIL-hariprashath321-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprashath321@gmail.com)
 
 <br/>
@@ -20,24 +20,25 @@
 
 ## Profile
 
-Final-year Bachelor of Technology student in Artificial Intelligence & Data Science at K. Ramakrishnan College of Technology, Anna University. Focused on building production-grade AI-powered platforms, agentic automation systems, and full-stack applications. Currently leading the AGEN Club, driving technical workshops and hackathons on campus.
+Final-year Bachelor of Technology student in Artificial Intelligence & Data Science at K. Ramakrishnan College of Technology, Anna University. Focused on building AI-powered platforms, agentic automation systems, and full-stack applications. Currently gaining real-world product engineering experience at Centennial InfoTech, contributing to SaaS and recruitment automation products. Experienced with React, TypeScript, Python, Flask, Django, Node.js, Generative AI, RAG, and AI automation, with a strong interest in building scalable and production-ready software solutions.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **Currently**
-- Developing IDCS, a unified institutional ERP framework
-- Exploring agentic AI systems and RAG-based pipelines
-- Refining full-stack architecture with React and Django REST
+- Contributing to Centennial Connect, an AI-powered business calling SaaS platform
+- Developing recruitment automation workflows for resume screening and candidate shortlisting
+- Building and exploring agentic AI systems, RAG pipelines, and AI-powered automation
 
 </td>
 <td width="50%" valign="top">
 
 **Background**
+- React.js & Vite Developer Intern — Centennial InfoTech
 - AI & Cloud Computing Intern — CloudplusAI Tech
 - Microsoft PL-300: Power BI Data Analyst Associate
-- 1st Place, Isysway Hackathon, Tanjore
+- 1st Place / Winner — Isysway Hackathon, Tanjore
 
 </td>
 </tr>
@@ -108,38 +109,33 @@ Final-year Bachelor of Technology student in Artificial Intelligence & Data Scie
 </tr>
 <tr>
 <td><b>IDCS — Institutional ERP</b></td>
-<td>Centralized ERP automating attendance, payroll analytics, leave management, and role-based access control</td>
+<td>Centralized institutional ERP platform automating academic and administrative workflows including biometric attendance, payroll analytics, leave management, event approvals, and role-based access control</td>
 <td><code>React</code> <code>Django REST</code> <code>JWT</code> <code>PostgreSQL</code></td>
 </tr>
 <tr>
+<td><b>Centennial Connect</b></td>
+<td>Production SaaS platform for AI-powered business calling with virtual numbers, real-time AI voice agents, and intelligent power dialing</td>
+<td><code>TypeScript</code> <code>Next.js</code> <code>MongoDB</code> <code>AI</code></td>
+</tr>
+<tr>
 <td><b>AutoFixHub</b></td>
-<td>Agentic AI tool that autonomously analyzes and commits code fixes to GitHub</td>
+<td>Agentic AI tool that autonomously analyzes code issues and commits code fixes directly to GitHub</td>
 <td><code>Python</code> <code>GitHub API</code> <code>LLM Agents</code></td>
 </tr>
 <tr>
 <td><b>Wire EDM AI Simulator</b></td>
-<td>Web-based CNC simulation with AI-powered performance metrics visualization</td>
+<td>Web-based CNC Wire EDM simulation with AI-powered performance metrics visualization</td>
 <td><code>React</code> <code>TypeScript</code></td>
 </tr>
 <tr>
-<td><b>AI Career Navigator</b></td>
-<td>AI-powered career guidance platform, built at HackFinity 2025</td>
-<td><code>React</code> <code>Supabase</code> <code>Hugging Face</code></td>
-</tr>
-<tr>
 <td><b>Academic RAG</b></td>
-<td>Retrieval-augmented generation system for academic content</td>
-<td><code>TypeScript</code></td>
+<td>Retrieval-augmented generation system enabling students to query academic/course material using natural language for context-grounded answers</td>
+<td><code>React</code> <code>TypeScript</code> <code>LLM APIs</code></td>
 </tr>
 <tr>
-<td><b>Question Paper Generator</b></td>
-<td>Generates question papers from syllabus PDFs using Bloom's taxonomy logic</td>
-<td><code>Flask</code> <code>Python</code></td>
-</tr>
-<tr>
-<td><b>Student Marksheet System</b></td>
-<td>CRUD web application for managing student academic records</td>
-<td><code>Node.js</code> <code>Express</code> <code>SQLite</code></td>
+<td><b>Recruitment Automation — Centennial</b></td>
+<td>Automation tool for resume screening and candidate shortlisting to streamline internal recruitment workflows</td>
+<td><code>TypeScript</code> <code>AI</code> <code>Automation</code></td>
 </tr>
 </table>
 
@@ -174,7 +170,7 @@ Final-year Bachelor of Technology student in Artificial Intelligence & Data Scie
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=flat-square&logo=vercel&logoColor=white)](https://hari-prashath.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprashath-b-1508062a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprashath-b-3029s)
 [![Gmail](https://img.shields.io/badge/Gmail-1e293b?style=flat-square&logo=gmail&logoColor=white)](mailto:hariprashath321@gmail.com)
 
 <sub>Trichy, Tamil Nadu, India</sub>
